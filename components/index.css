@@ -25,21 +25,6 @@ body {
   display: none;
 }
 
-::-webkit-scrollbar {
-  width: 1em;
-  background-color: #F5F5F5;
-}
-
-::-webkit-scrollbar-thumb {
-background-color: #000000;
-border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #353535; 
-}
-
-
 /* ####################### Navbar ############################## */
 
 .navbar {
@@ -89,6 +74,20 @@ border-radius: 10px;
 }
 
 @media (min-width: 760px) {
+  ::-webkit-scrollbar {
+    width: 1em;
+    background-color: #F5F5F5;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+  background-color: #000000;
+  border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #353535; 
+  }
+  
   .navbar-bars {
     display: none;
   }
