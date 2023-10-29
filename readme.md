@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile
+# Welcome to Mohammad Amil Bhat's GitHub Profile
 
 
 ## About Me
