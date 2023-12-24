@@ -57,15 +57,26 @@ With an engineering mindset and a deep love for programming, I'm on a journey to
 
 ## Goals
 
-I'm currently focused on expanding my skills in backend web development, with a particular emphasis on:
+Welcome to my coding journey! 👋 I'm currently on a mission to expand my skills in both backend web development and machine learning. Here are the areas I'm diving into:
 
-- **Node.js**: Exploring the power of Node.js for server-side development.
-- **Express.js**: Learning how to build robust and scalable web applications with Express.js.
-- **MongoDB**: Delving into the world of NoSQL databases and mastering MongoDB for data storage.
+## MERN Stack
 
-My goal is to become proficient in backend development and apply these skills to create even more exciting and dynamic web applications.
+In addition to backend development and machine learning, I'm also diving into the MERN stack:
 
-Feel free to reach out if you share a similar interest or have any advice or insights to offer.
+- **MongoDB**: As part of my backend goals, I'm integrating MongoDB into the MERN stack for a seamless full-stack development experience.
+- **Express.js**: My expertise in Express.js is not only for standalone backend applications but also for building the server side of MERN stack applications.
+- **React.js**: I'm honing my skills in React.js for building interactive and dynamic user interfaces.
+- **Node.js**: Serving as the backbone of the MERN stack, Node.js is central to my full-stack development journey.
+
+## Machine Learning and Deep Learning Goals
+
+I'm thrilled to announce my new focus on machine learning and deep learning. This exciting field opens up endless possibilities, and I'm eager to explore and contribute to advancements in artificial intelligence.
+
+## Get in Touch
+
+If you share a similar interest, have advice to offer, or just want to connect, feel free to reach out. Let's learn and grow together in the exciting realms of backend development, machine learning, and the MERN stack!
+
+
 
 
 ## Acknowledgments
@@ -91,6 +102,10 @@ I'm incredibly grateful for the support, resources, and communities that have be
 - **Complete C++ Placement DSA Course**
   - Created by CodeHelp - by Babbar
   - [Link to Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+
+- **Machine Learning**
+  - Created by freeCodeCamp.org
+  - [Link to Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
 
 These tutorials and courses have been invaluable in my journey, and I'm thankful for the knowledge and skills they've imparted.
 
