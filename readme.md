@@ -21,6 +21,7 @@ With an engineering mindset and a deep love for programming, I'm on a journey to
   - Real-time chat functionality using Firebase Realtime Database.
   - Secure and user-friendly interface.
   - Routing with React Router for a seamless user experience.
+- Technologies: HTML, CSS, JavaScript, ReactJS, Firebase
 - [Demo](https://mabrealtimechat.netlify.app/) | [Repository](https://github.com/amilbhat/realtime-chat-app)
 
 ### Quizzical App
@@ -44,8 +45,9 @@ With an engineering mindset and a deep love for programming, I'm on a journey to
 - HTML
 - CSS
 - JavaScript (JS)
-- React.js
-- Node.js
+- Reactjs
+- Nodejs
+- MongoDB
 - Python
 - C++
 - SQL
