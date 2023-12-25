@@ -83,6 +83,10 @@ If you share a similar interest, have advice to offer, or just want to connect, 
 
 I'm incredibly grateful for the support, resources, and communities that have been instrumental in my journey as a self-taught programmer. I want to acknowledge the following tutorials and courses that have greatly contributed to my learning:
 
+- **The Frontend Developer Career Path**
+  - Created by scrimba.com
+  - [Link to Course](https://scrimba.com/learn/frontend)
+
 - **The Web Developer Bootcamp 2023**
   - Created by Colt Steele
   - [Link to Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
