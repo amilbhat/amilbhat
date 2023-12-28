@@ -59,6 +59,11 @@ With an engineering mindset and a deep love for programming, I'm on a journey to
 
 Welcome to my coding journey! 👋 I'm currently on a mission to expand my skills in both backend web development and machine learning. Here are the areas I'm diving into:
 
+
+## Machine Learning and Deep Learning Goals
+
+I'm thrilled to announce my new focus on machine learning and deep learning. This exciting field opens up endless possibilities, and I'm eager to explore artificial intelligence.
+
 ## MERN Stack
 
 In addition to backend development and machine learning, I'm also diving into the MERN stack:
@@ -67,10 +72,6 @@ In addition to backend development and machine learning, I'm also diving into th
 - **Express.js**: My expertise in Express.js is not only for standalone backend applications but also for building the server side of MERN stack applications.
 - **React.js**: I'm honing my skills in React.js for building interactive and dynamic user interfaces.
 - **Node.js**: Serving as the backbone of the MERN stack, Node.js is central to my full-stack development journey.
-
-## Machine Learning and Deep Learning Goals
-
-I'm thrilled to announce my new focus on machine learning and deep learning. This exciting field opens up endless possibilities, and I'm eager to explore and contribute to advancements in artificial intelligence.
 
 ## Get in Touch
 
